@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+h1{
+    font-family:"lexend";
+    background-color:cadetblue;
+    color:beige;
+    font-size: 200%;
+}
+h2{
+    font-family:"lexend";
+    background-color:cadetblue;
+    color:beige;
+    font-size: 100%;
+}
+h3{
+    font-family: "lexend";
+    color: cadetblue;
+    font-size: 150%;
+    font-weight: bolder;
+}
+.white{
+    font-family: "lexend";
+    color: white;
+    font-size: 150%;
+    font-weight: bolder;
+}
+.gradient {
+    background-image: linear-gradient(to bottom, cadetblue,white);
+  }
+.gradient2{
+    background-image: linear-gradient(to bottom, white,cadetblue);
+  } 
+footer {
+    background-color:cadetblue;
+}
+h7 {
+    color: white;
+    font-family: "lexend";
+    font-size: 90%;  
+    text-decoration: none;
+}
+.break{
+    color:darkgrey;
+    background-color: darkgrey;
+}
+h4{
+    font-family: "lexend";
+    color:darkslategray;
+    font-size: 140%;
+    font-weight: bolder;
+    line-height: 150%;
+}
+ul li{
+    list-style: none;
+    font-family: "lexend";
+    color: cadetblue;
+    font-weight: bolder;
+    font-size: 150%;
+}
+ul li ul li{
+    list-style: none;
+    color:darkslategray;
+    font-size: 100%;
+    font-weight: bold;
+}
+.sky{
+    list-style: none;
+    color:darkslategray;
+    font-size: 120%;
+    font-weight: bold;
+    background-color: white;
+}
+.diving{
+    font-family: "lexend";
+    color: cadetblue;
+    font-size: 100%;
+    font-weight: bolder;
+}
+p{
+    color:darkslategray;
+    font-size: 90%;
+    font-weight: bold;
+}
+#none{
+    color:grey;
+    font-size: 90%;
+    font-weight: bold;    
+    text-decoration: none;
+}
+#hiperv{
+    text-decoration: underline whitesmoke;
+}
+#blanco{
+    color:white;
+    text-decoration: none;
+}
+#bordes{
+    border: solid 2px darkslategray;
+}
+#border{
+    border: solid 3px gray;
+}
+.primero{
+    background-color: lightsteelblue;
+    color: darkslategray;
+}
+#class{
+    color:whitesmoke;
+}
